@@ -4,7 +4,7 @@ class Star
 {
 
     public $data;
-    public $i ;
+    public $i;
     public $e;
 
     public function __construct()
